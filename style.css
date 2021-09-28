@@ -4,8 +4,8 @@
     width: 100%;
     height: 100vh;
      
-    background: rgba(255, 255, 255, 0.7)
-                url("rocket.gif") 
+    background: rgba(255, 255, 255, 0.9)
+                url("/Rocket.gif")
                 no-repeat
                 center; /*No-repeat allows only one instance of the animation, center will centralize the preloader*/   
     z-index: 99999;    /*keep the z-index to the highest value*/
